@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://e7.pngegg.com/pngimages/554/624/png-clipart-devops-software-developer-computer-software-software-development-logo-mechanical-logo-blue-text.png" alt="cover" />
+<img width="100%" height = "250px" src="pngwing.com.png" alt="cover" />
 </div>
 
 <h1 align='center'> Hello World <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
